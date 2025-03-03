@@ -1,0 +1,159 @@
+
+@font-face {
+    font-family: "Baron Neue";
+    src: url('/fuentes/Baron Neue.woff') format('woff');
+	src: url('fuentes/Baron-Neue.woff2') format('woff2');
+	src: url('fuentes/Baron-Neue.otf') format('opentype');
+	src: url('fuentes/Baron-Neue.ttf') format('truetype');
+	
+    font-weight: 400;
+    font-style: normal;
+	
+}
+.baron{
+	font-family: "Baron Neue";
+}
+body{
+	font-family: "Poppins", serif;
+	background-color: #FFFDEC;
+}
+.portada1 {
+    background-image: url(imagenes/portada2.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.fondo-pagina{
+	background-color: #FFFDEC;
+}
+
+.patronrojo {
+    background-image: url(imagenes/fondo_rojo1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-blanco-opacidad {
+    background-color: rgba(255,253,236,0.70);
+}
+.patronmorado {
+    background-image: url(imagenes/fondo_morado.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.fondonaranja {
+    background-color: #FF4800;
+}
+.fondomorado {
+    background-color: #8900AC;
+}
+.fondoazul {
+    background-color: #5A83FE;
+}
+.fondoamarillo {
+    background-color: #FFA400;
+}
+.fondorosa {
+    background-color: #F900D0;
+}
+
+.sinborde {
+    border: none;
+}
+.mb-8 {
+    margin-bottom: 5%;
+}
+
+.medidas_imagen_45 {
+    width: 45%;
+    height: auto;
+}
+.fondocafe {
+    background-color: #410400;
+}
+
+.bg_image_resistencia {
+    background-image: url(imagenes/madres.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.line_divider {
+    border-bottom: 1px solid #410400;
+}
+.centrar_img {
+    margin: auto;
+	display: block;
+	
+}
+
+
+
+.color_claro {
+    color: #FFFDEC;
+}
+.color_azul {
+    color: #5A83FE;
+}
+.color_cafe {
+    color: #410400;
+}
+.portada {
+    background-image: url(imagenes/portada1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-amplio {
+    padding-top: 10%;
+    padding-bottom: 10%;
+	
+}
+.portada {
+    background-image: url(imagenes/portada1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.plr-iconos{
+	padding-left: 15%;
+	padding-right: 15%;
+	column-gap: 20px;
+	font-size: 1.5rem;
+}
+.p-header{
+	padding-top: auto;
+	padding-bottom: auto;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+.p-laterales{
+	padding-left: 12%;
+	padding-right: 12%
+}.bg-maiz {
+    background-image: url(imagenes/maiz2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.bg-maiz2 {
+    background-image: url(imagenes/maiz3.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.carrusel-img{
+	width: 100%;
+    height: auto; 
+    max-height: 500px; /* Ajusta la altura máxima según necesites */
+    object-fit: cover; /* Corta y ajusta la imagen sin distorsionarla */
+}
+.fondorosado{
+	background-color: #F900D0;
+}
+.letra-footer{
+	color: #F2C099
+}

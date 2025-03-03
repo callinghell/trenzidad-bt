@@ -1,0 +1,136 @@
+@font-face {
+    font-family: "Baron Neue";
+    src: url('/fuentes/Baron Neue.woff') format('woff');
+	src: url('fuentes/Baron-Neue.woff2') format('woff2');
+	src: url('fuentes/Baron-Neue.otf') format('opentype');
+	src: url('fuentes/Baron-Neue.ttf') format('truetype');
+	
+    font-weight: 400;
+    font-style: normal;
+	
+}
+.baron{
+	font-family: "Baron Neue";
+}∫
+.container {
+    background-color: #FFFDEC;
+}
+.fondo {
+    background-color: #FFFDEC;
+}
+.p-header{
+	padding-top: auto;
+	padding-bottom: auto;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+.bgfondobarra {
+    background-color: #FCE5CD;
+}
+.bgfondocartas {
+    background-color: rgba(255,228,180,0.64);
+    margin-top: 7px;
+}
+.bgfondocarta2 {
+
+
+    
+    background-image: url(images/fondo_amarillo1.jpg);
+    background-position: 0% 0%;
+    background-size: cover;
+}
+.bgfondotextoscartas {
+
+}
+
+
+.textbarra {
+}
+.text-body {
+    color: #410400;
+}
+.bgboton {
+    background-color: #F8DAA7;
+    color: #410400;
+}
+.bgtextobotones {
+    font-family: Poppins;
+}
+
+.bgtipografia {
+    font-family: "Baron Neue";
+}
+.bgdespliegue {
+    background-image: url(images/fondo_crema.jpg);
+    background-position: 0% 0%;
+    background-size: cover;
+}
+.bgfondespliegue {
+    background-color: #FFFDEC;
+    background-image: url(url);
+}
+.bgtextocorrido {
+}
+
+
+
+.bg-dark {
+    background-color: #BCBCBC;
+}
+.bgfondocarta {
+    background-image: url("images/fondo_amarillo1.jpg");
+    background-color: #FFA400;
+}
+.bgfondocarta22 {
+    background-image: url("images/fondo_amarillo1.jpg");
+    background-color: rgba(241,0,0,0.53);
+}
+.bgcolorcarta1 {
+}
+.bgbotones {
+    font-family: Poppins;
+    text-indent: 0px;
+    background-color: #BC3638;
+}
+.bgtextodespliegue {
+    color: #FFA400;
+}
+.bgfondocontainer {
+    background-image: url(images/fondo_amarillo1.jpg);
+    background-color: #FFA400;
+}
+.bgdentrocontainer {
+    background-color: #FF4800;
+}
+.bgtextobeige {
+    color: #F2C099;
+}
+.bgtextoamarillo {
+    color: #FFA400;
+}
+.bgimagenjumbotrom {
+    background-image: url(images/WhatsApp%20Image%202025-03-01%20at%2011.55.22%20PM.jpeg);
+    background-size: cover;
+    background-clip: padding-box;
+    background-position: center center;
+}
+.bgtextofondo {
+    background-color: rgba(255,255,255,0.57);
+}
+.color_claro {
+    color: #FFFDEC;
+}
+.fondocafe {
+    background-color: #410400;
+}
+.plr-iconos{
+	padding-left: 15%;
+	padding-right: 15%;
+	column-gap: 20px;
+	font-size: 1.5rem;
+}.mt-amplio {
+    margin-top: 60px;
+}
+.letra-footer{
+	color: #F2C099
+}
